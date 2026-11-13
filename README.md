@@ -640,5 +640,4 @@ Possible models:
 ## LICENSE 
 
 This project is licensed under the MIT License.
-#   C u s t o m e r - S u p p o r t - A n a l y t i c s - B I  
- 
+#
